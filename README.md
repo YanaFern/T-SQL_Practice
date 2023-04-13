@@ -1,1 +1,0 @@
-# T-SQL_Practice
